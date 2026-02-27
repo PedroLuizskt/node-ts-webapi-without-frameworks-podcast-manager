@@ -1,4 +1,8 @@
-<div align="center">  
+<sub>Desenvolvido para evolução técnica por <a href="https://github.com/PedroLuizskt">Pedro Luiz</a></sub>
+</div>
+<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=26a62f&height=120&section=header"/>
+ 
   <a href="https://github.com/PedroLuizskt">
     <img src="https://readme-typing-svg.herokuapp.com/?color=fa9c0a&size=35&center=true&vCenter=true&width=1000&lines=PodManager+API;Node.js+&+TypeScript;Clean+Architecture+Concepts&duration=4000&pause=1000" alt="Typing SVG" />
   </a>
