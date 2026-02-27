@@ -1,0 +1,38 @@
+[
+    {
+        "podcastName": "startalk",
+        "episode": "Cosmic Queries - Black Holes and Time Dilation",
+        "videoID": "123astro456",
+        "categories": ["astrofísica", "ciência", "física"]
+    },
+    {
+        "podcastName": "startalk",
+        "episode": "Neil deGrasse Tyson Explains The Universe",
+        "videoID": "789cosmos",
+        "categories": ["astrofísica", "educação"]
+    },
+    {
+        "podcastName": "huberman",
+        "episode": "Como o Cérebro Aprende e Retém Informações",
+        "videoID": "hbmneuro01",
+        "categories": ["biologia", "neurociência", "saúde"]
+    },
+    {
+        "podcastName": "huberman",
+        "episode": "A Ciência do Sono e Performance",
+        "videoID": "hbmsleep02",
+        "categories": ["biologia", "comportamento"]
+    },
+    {
+        "podcastName": "rickbeato",
+        "episode": "What Makes This Song Great? - Beethoven Edition",
+        "videoID": "rbmusic01",
+        "categories": ["teoria musical", "análise", "arte"]
+    },
+    {
+        "podcastName": "lexfridman",
+        "episode": "Física Quântica e a Natureza da Realidade",
+        "videoID": "lexquant01",
+        "categories": ["física", "filosofia", "tecnologia"]
+    }
+]
